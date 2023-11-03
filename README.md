@@ -1,3 +1,0 @@
-# CropAnalysis
-CropAnalysisManagmentSystem
-Hello
